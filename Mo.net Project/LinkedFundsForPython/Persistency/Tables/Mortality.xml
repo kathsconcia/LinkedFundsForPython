@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<Table xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>Mortality</Name>
+  <Parent />
+  <Previous>Basis</Previous>
+  <LastModifiedOn>0001-01-01T00:00:00</LastModifiedOn>
+  <CreatedBy>GreigBingham</CreatedBy>
+  <CreatedOn>2023-03-08T19:18:58.1339648Z</CreatedOn>
+  <Folder>true</Folder>
+  <LastModified>0001-01-01T00:00:00</LastModified>
+  <Notes />
+  <IsExpanded>true</IsExpanded>
+  <IsProjectTable>true</IsProjectTable>
+  <IsDataSource>false</IsDataSource>
+  <IsODBCSource>false</IsODBCSource>
+  <IsDatFileSource>false</IsDatFileSource>
+  <IsDatabaseConnection>false</IsDatabaseConnection>
+  <FilePath />
+  <Reference />
+  <Delimiter>	</Delimiter>
+  <Internal>false</Internal>
+  <LookUpType>Row</LookUpType>
+  <BasisTable>false</BasisTable>
+  <IndexCols>1</IndexCols>
+  <DoubleType>true</DoubleType>
+  <Rows>1</Rows>
+  <Cols>1</Cols>
+  <HasHeadings>true</HasHeadings>
+  <RunControlTable>false</RunControlTable>
+</Table>

@@ -1,0 +1,98 @@
+<?xml version="1.0"?>
+<Project xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>LinkedFundsForPython</Name>
+  <LastModifiedBy>GreigBingham</LastModifiedBy>
+  <LastModifiedOn xsi:nil="true" />
+  <CreatedOn xsi:nil="true" />
+  <Folder>false</Folder>
+  <LastModified>2023-03-08T19:18:57.6323079+00:00</LastModified>
+  <Notes />
+  <IsExpanded>true</IsExpanded>
+  <CreateDate>2023-03-08T19:18:57.6323079+00:00</CreateDate>
+  <UserId>GreigBingham</UserId>
+  <AppVersion>6000</AppVersion>
+  <VersionNo>1.000</VersionNo>
+  <CompanyName>Software Alliance Limited</CompanyName>
+  <Logo>C:\GitHub\LinkedFundsForPython\Mo.net Project\LinkedFundsForPython\Logo\SAL.png</Logo>
+  <Documentation>C:\GitHub\LinkedFundsForPython\Mo.net Project\LinkedFundsForPython\Documentation\Mo.net_Sample_Projects_LinkedFundsDynamicBasis_Model_v1.00_User_Guide_v1.pdf</Documentation>
+  <DocumentationBackedUp>true</DocumentationBackedUp>
+  <CommitDate>0001-01-01T00:00:00</CommitDate>
+  <References />
+  <ExternalSourceControl>true</ExternalSourceControl>
+  <DisableLastModified>true</DisableLastModified>
+  <RevisionIds>
+    <item>
+      <key>
+        <int>1</int>
+      </key>
+      <value>
+        <string>64ebf0be-6988-4db5-9077-c4f0f39993a7</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <int>2</int>
+      </key>
+      <value>
+        <string>5aecaa62-882c-4974-a49f-5ae57096040d</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <int>3</int>
+      </key>
+      <value>
+        <string>09715a46-b407-4f67-b6af-35bc47f80d4f</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <int>4</int>
+      </key>
+      <value>
+        <string>8de7fef9-05db-45ed-a1bb-c2e3c7db0aee</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <int>5</int>
+      </key>
+      <value>
+        <string>ab6c67d4-0a6b-4ba1-bde8-2f35dee8e69a</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <int>6</int>
+      </key>
+      <value>
+        <string>a6046508-7921-404c-922c-18771e2c96da</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <int>7</int>
+      </key>
+      <value>
+        <string>cc6b7f05-cd98-4f21-aa80-3058245f46ca</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <int>8</int>
+      </key>
+      <value>
+        <string>b655d354-b47c-4039-9494-beafbf4f5e05</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <int>9</int>
+      </key>
+      <value>
+        <string>e7ea7bc2-5a1a-4ef7-b88e-d279dc529422</string>
+      </value>
+    </item>
+  </RevisionIds>
+  <OpenAsReadOnly>false</OpenAsReadOnly>
+</Project>

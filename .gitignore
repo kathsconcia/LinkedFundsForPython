@@ -1,3 +1,29 @@
+#Monet
+syntax: glob
+Mo.net Project/LinkedFundsForPython/Backup
+Mo.net Project/LinkedFundsForPython/Compile
+Mo.net Project/LinkedFundsForPython/Results
+Mo.net Project/LinkedFundsForPython/UserEdits
+Mo.net Project/LinkedFundsForPython/LockFile.txt
+Mo.net Project/LinkedFundsForPython/LockInfo.xml
+Mo.net Project/LinkedFundsForPython/RunReports.xml
+Mo.net Project/LinkedFundsForPython/TempInputsTable.txt
+Mo.net Project/LinkedFundsForPython/AutoRecover - previous.xml
+Mo.net Project/LinkedFundsForPython/AutoRecover.xml
+Mo.net Project/LinkedFundsForPython/Project Lisbon
+Mo.net Project/LinkedFundsForPython/IOFiles/Properties
+Mo.net Project/LinkedFundsForPython/IOFiles/Reports
+*ProjectWorkspace.xml
+*.zip
+*.png
+*.html
+*.orig
+*~$*
+*_Inputs.txt
+*Audit_Results1_Params.txt
+*DLL*
+*.spkg
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]

@@ -1,0 +1,98 @@
+<?xml version="1.0"?>
+<DataConversion xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>Linked2</Name>
+  <Parent />
+  <Previous>Linked</Previous>
+  <LastModifiedOn>0001-01-01T00:00:00</LastModifiedOn>
+  <CreatedBy>GreigBingham</CreatedBy>
+  <CreatedOn>2023-03-08T19:18:58.1339648Z</CreatedOn>
+  <Key>Linked1</Key>
+  <Folder>false</Folder>
+  <LastModified>0001-01-01T00:00:00</LastModified>
+  <Notes />
+  <IsExpanded>true</IsExpanded>
+  <Type>Indiv</Type>
+  <UseDefaultFolder>true</UseDefaultFolder>
+  <UseDataSource>false</UseDataSource>
+  <ResultsFolder>IOFiles\Projections\</ResultsFolder>
+  <FileName />
+  <DebugInfo>true</DebugInfo>
+  <ReThrowException>true</ReThrowException>
+  <ExceptionWriteMax>20</ExceptionWriteMax>
+  <ExceptionAbortMax>1000</ExceptionAbortMax>
+  <TableSplitDelimiter>_</TableSplitDelimiter>
+  <WorkerPCs>false</WorkerPCs>
+  <MultiThreaded>false</MultiThreaded>
+  <IsHpcRun>false</IsHpcRun>
+  <ThreadsEvenSplit>true</ThreadsEvenSplit>
+  <ParallelSplits>0</ParallelSplits>
+  <Threads>0</Threads>
+  <SequentialStartUp>false</SequentialStartUp>
+  <ProcessResultsOnMaster>true</ProcessResultsOnMaster>
+  <StartUpDelay>0</StartUpDelay>
+  <BackupAfterRun>false</BackupAfterRun>
+  <IncludeResultsInBackup>false</IncludeResultsInBackup>
+  <RevisionIds />
+  <Code />
+  <ModelName>Linked</ModelName>
+  <Basis>Linked2</Basis>
+  <InputsTable>
+    <Name>Linked_Inputs</Name>
+    <Parent />
+    <Previous>Basis</Previous>
+    <LastModifiedOn>0001-01-01T00:00:00</LastModifiedOn>
+    <CreatedBy />
+    <CreatedOn xsi:nil="true" />
+    <Key>Linked_Inputs</Key>
+    <Folder>false</Folder>
+    <LastModified>0001-01-01T00:00:00</LastModified>
+    <Notes />
+    <IsExpanded>true</IsExpanded>
+    <IsProjectTable>false</IsProjectTable>
+    <IsDataSource>false</IsDataSource>
+    <IsODBCSource>false</IsODBCSource>
+    <IsDatFileSource>false</IsDatFileSource>
+    <IsDatabaseConnection>false</IsDatabaseConnection>
+    <FilePath>Tables\Linked2_Inputs.txt</FilePath>
+    <FileName />
+    <Reference />
+    <Delimiter>	</Delimiter>
+    <Internal>false</Internal>
+    <LookUpType>Col</LookUpType>
+    <BasisTable>false</BasisTable>
+    <IndexCols>0</IndexCols>
+    <DoubleType>true</DoubleType>
+    <Rows>1</Rows>
+    <Cols>14</Cols>
+    <HasHeadings>true</HasHeadings>
+    <RunControlTable>false</RunControlTable>
+  </InputsTable>
+  <CopyProperties />
+  <InputOverrides>true</InputOverrides>
+  <ParameterOverrides>false</ParameterOverrides>
+  <ReadFromFileIfAvailable>false</ReadFromFileIfAvailable>
+  <ProjectionInputs />
+  <Dynamic>false</Dynamic>
+  <UseDynamicAttributes>false</UseDynamicAttributes>
+  <ColumnOutputTotals>true</ColumnOutputTotals>
+  <ColumnOutputStart>0</ColumnOutputStart>
+  <ColumnOutputEnd>24</ColumnOutputEnd>
+  <ColumnSumTotals>true</ColumnSumTotals>
+  <ColumnSumStart>0</ColumnSumStart>
+  <ColumnSumEnd>24</ColumnSumEnd>
+  <PerRecordResults>false</PerRecordResults>
+  <SuppressRecordIndices>false</SuppressRecordIndices>
+  <CustomRecordOutput />
+  <Delimiter>Tab</Delimiter>
+  <Targets />
+  <MaxTerm>1200</MaxTerm>
+  <CircularReferenceCheck>false</CircularReferenceCheck>
+  <ResetParamDefaults>false</ResetParamDefaults>
+  <SuppressVariableValidation>false</SuppressVariableValidation>
+  <ApplyGrouping>false</ApplyGrouping>
+  <ApplySorting>false</ApplySorting>
+  <ApplyMergeTest>false</ApplyMergeTest>
+  <Threshold>0</Threshold>
+  <ThreshholdType>None</ThreshholdType>
+  <IsDataConversion>false</IsDataConversion>
+</DataConversion>
