@@ -1,5 +1,5 @@
 import sys
-import clr
+import clr #pip install pythonnet NOT clr
 
 # define path to the Mo.net Linked DLL and add this to system path
 
