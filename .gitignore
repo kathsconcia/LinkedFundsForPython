@@ -15,6 +15,7 @@ Mo.net Project/LinkedFundsForPython/IOFiles/Properties
 Mo.net Project/LinkedFundsForPython/IOFiles/Reports
 *ProjectWorkspace.xml
 *.zip
+*.mozip
 *.png
 *.html
 *.orig
