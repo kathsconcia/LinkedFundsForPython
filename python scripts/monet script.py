@@ -3,7 +3,7 @@ import clr
 
 # define path to the Mo.net Linked DLL and add this to system path
 
-assembly_path = r"C:\Mo.net Projects\LinkedFundsForPython\Linked_DLL"
+assembly_path = r"C:\GitHub\LinkedFundsForPython\Mo.net Project\LinkedFundsForPython\Linked_DLLFolder"
 sys.path.append(assembly_path)
 
 # add Mo.net kernel assembly references to the CLR
