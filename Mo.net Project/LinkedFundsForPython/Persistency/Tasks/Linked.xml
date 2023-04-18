@@ -4,12 +4,12 @@
   <Parent />
   <Previous />
   <LastModifiedBy>GreigBingham</LastModifiedBy>
-  <LastModifiedOn>2023-03-08T19:39:19.5588749+00:00</LastModifiedOn>
+  <LastModifiedOn>2023-04-18T11:50:57.9671452+01:00</LastModifiedOn>
   <CreatedBy>GreigBingham</CreatedBy>
   <CreatedOn>2023-03-08T19:18:58.1339648Z</CreatedOn>
   <Key>Linked</Key>
   <Folder>false</Folder>
-  <LastModified>2023-03-08T19:39:19.5588749+00:00</LastModified>
+  <LastModified>2023-04-18T11:50:57.9671452+01:00</LastModified>
   <Notes />
   <IsExpanded>true</IsExpanded>
   <Type>Indiv</Type>
@@ -33,7 +33,7 @@
   <StartUpDelay>0</StartUpDelay>
   <BackupAfterRun>false</BackupAfterRun>
   <IncludeResultsInBackup>false</IncludeResultsInBackup>
-  <PackageVersion>0.0.0.2</PackageVersion>
+  <PackageVersion>0.0.0.5</PackageVersion>
   <RevisionIds>
     <item>
       <key>
@@ -49,6 +49,30 @@
       </key>
       <value>
         <string>51e445cc-2d30-424c-a9fc-67e3a1fa94ef</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <int>3</int>
+      </key>
+      <value>
+        <string>847ec325-04fb-40c8-8f37-65648a042da3</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <int>4</int>
+      </key>
+      <value>
+        <string>5a99f3f2-bedd-4b96-95c2-a596b4ac8b31</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <int>5</int>
+      </key>
+      <value>
+        <string>c83561dd-ca7b-44ea-8540-2bc926b4b76a</string>
       </value>
     </item>
   </RevisionIds>
@@ -109,7 +133,7 @@
   <CircularReferenceCheck>false</CircularReferenceCheck>
   <ResetParamDefaults>false</ResetParamDefaults>
   <SuppressVariableValidation>false</SuppressVariableValidation>
-  <ProjectionDllPath>C:\GitHub\LinkedFundsForPython\Mo.net Project\LinkedFundsForPython\Linked_DLLFolder</ProjectionDllPath>
+  <ProjectionDllPath>C:\GitHub\OAC\LinkedFundsForPython\Mo.net Project\LinkedFundsForPython\Linked_DLLFolder</ProjectionDllPath>
   <ApplyGrouping>false</ApplyGrouping>
   <ApplySorting>false</ApplySorting>
   <ApplyMergeTest>false</ApplyMergeTest>

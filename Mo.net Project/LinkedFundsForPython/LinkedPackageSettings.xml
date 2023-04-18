@@ -7,7 +7,7 @@
   <Oracle>false</Oracle>
   <DebugInfo>false</DebugInfo>
   <Target64Bit>true</Target64Bit>
-  <EmbedResources>true</EmbedResources>
+  <EmbedResources>false</EmbedResources>
   <IncludeOrigo>false</IncludeOrigo>
   <CustomPaths />
   <RootNamespace />

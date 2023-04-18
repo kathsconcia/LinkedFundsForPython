@@ -3,7 +3,7 @@ import clr #pip install pythonnet NOT clr
 
 # define path to the Mo.net Linked DLL and add this to system path
 
-assembly_path = r"C:\GitHub\LinkedFundsForPython\Mo.net Project\LinkedFundsForPython\Linked_DLLFolder"
+assembly_path = r"C:\GitHub\OAC\LinkedFundsForPython\Mo.net Project\LinkedFundsForPython\Linked_DLLFolder"
 sys.path.append(assembly_path)
 
 # add Mo.net kernel assembly references to the CLR
@@ -46,5 +46,6 @@ linkedproj.Run()
 
 # show the sterling result at time=0 
 
+print()
 print(f'SterlInt = {linkedproj.SterlInt}')
 print(f'SterlRes(0) = {linkedproj.SterlRes(0)}')

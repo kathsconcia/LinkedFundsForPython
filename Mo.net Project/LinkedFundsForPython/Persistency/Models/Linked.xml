@@ -3,11 +3,12 @@
   <Name>Linked</Name>
   <Parent />
   <Previous />
-  <LastModifiedOn>0001-01-01T00:00:00</LastModifiedOn>
+  <LastModifiedBy>GreigBingham</LastModifiedBy>
+  <LastModifiedOn>2023-04-18T11:50:33.717945+01:00</LastModifiedOn>
   <CreatedBy>GreigBingham</CreatedBy>
   <CreatedOn>2023-03-08T19:18:58.1339648Z</CreatedOn>
   <Folder>false</Folder>
-  <LastModified>0001-01-01T00:00:00</LastModified>
+  <LastModified>2023-04-18T11:50:33.717945+01:00</LastModified>
   <Notes />
   <IsExpanded>true</IsExpanded>
   <Inherit>false</Inherit>
@@ -553,16 +554,35 @@
     <Formula>
       <Name>General</Name>
       <Parent />
-      <Previous />
-      <LastModifiedOn>0001-01-01T00:00:00</LastModifiedOn>
+      <Previous>InitRecord</Previous>
+      <LastModifiedBy>GreigBingham</LastModifiedBy>
+      <LastModifiedOn>2023-04-18T11:49:52.8398546+01:00</LastModifiedOn>
       <CreatedBy />
       <CreatedOn xsi:nil="true" />
       <Folder>true</Folder>
-      <LastModified>0001-01-01T00:00:00</LastModified>
+      <LastModified>2023-04-18T11:49:52.8398546+01:00</LastModified>
       <Notes />
       <IsExpanded>true</IsExpanded>
       <DataType />
       <Value />
+      <Format />
+      <Override>false</Override>
+      <IsPrivate>false</IsPrivate>
+    </Formula>
+    <Formula>
+      <Name>InitRecord</Name>
+      <Parent />
+      <Previous />
+      <LastModifiedBy>GreigBingham</LastModifiedBy>
+      <LastModifiedOn>2023-04-18T11:50:33.717945+01:00</LastModifiedOn>
+      <CreatedBy>GreigBingham</CreatedBy>
+      <CreatedOn>2023-04-18T11:49:49.6089887+01:00</CreatedOn>
+      <Folder>false</Folder>
+      <LastModified>2023-04-18T11:50:33.717945+01:00</LastModified>
+      <Notes />
+      <IsExpanded>true</IsExpanded>
+      <DataType />
+      <Value>Log.console("Record " &amp; Record.Number &amp; " In progress")</Value>
       <Format />
       <Override>false</Override>
       <IsPrivate>false</IsPrivate>
@@ -588,17 +608,18 @@
       <Name>MortAnn1</Name>
       <Parent>Mortality</Parent>
       <Previous />
-      <LastModifiedOn>0001-01-01T00:00:00</LastModifiedOn>
+      <LastModifiedBy>GreigBingham</LastModifiedBy>
+      <LastModifiedOn>2023-03-16T08:19:32.8004397+00:00</LastModifiedOn>
       <CreatedBy />
       <CreatedOn xsi:nil="true" />
       <Folder>false</Folder>
-      <LastModified>0001-01-01T00:00:00</LastModified>
+      <LastModified>2023-03-16T08:19:32.8004397+00:00</LastModified>
       <Notes>Annual rate of mortality</Notes>
       <IsExpanded>true</IsExpanded>
       <DataType>Double</DataType>
       <Value>If Sex1 = 0 Then Return MortMale.Value(Age1(t))
 
-Return MortFemale.Value(Age1(t)) </Value>
+Return MortFemale.Value(Age1(t))</Value>
       <Format>#,##0.00000</Format>
       <Override>false</Override>
       <IsPrivate>false</IsPrivate>
@@ -662,11 +683,12 @@ Return SumAtRisk * MortMth(t)</Value>
       <Name>ProjTerm</Name>
       <Parent>General</Parent>
       <Previous />
-      <LastModifiedOn>0001-01-01T00:00:00</LastModifiedOn>
+      <LastModifiedBy>GreigBingham</LastModifiedBy>
+      <LastModifiedOn>2023-04-18T11:49:52.8398546+01:00</LastModifiedOn>
       <CreatedBy />
       <CreatedOn xsi:nil="true" />
       <Folder>false</Folder>
-      <LastModified>0001-01-01T00:00:00</LastModified>
+      <LastModified>2023-04-18T11:49:52.8398546+01:00</LastModified>
       <Notes />
       <IsExpanded>true</IsExpanded>
       <DataType>Integer</DataType>
